@@ -12,3 +12,5 @@ https://mtpullin.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Mitchell Pullin
+
+### ©️2019 Run Buddy, Inc 
