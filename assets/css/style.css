@@ -237,3 +237,14 @@ h3 {
 .contact-info a {
     color: #fce138;
 }
+.hero-cta {
+color:#fce138;
+font-size: 50px;
+font-style: italic;
+}
+
+.hero-cta p {
+    font-size: 24px;
+    color: white;
+    font-style: normal;
+}
